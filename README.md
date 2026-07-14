@@ -210,3 +210,5 @@ The live marketing site contains a product walkthrough and a demo-request form: 
 ## Repository scope and ownership
 
 This repository intentionally contains documentation only. It does not grant access to the private commercial implementation or permission to reproduce it. No open-source licence is currently offered.
+
+For a product walkthrough or professional enquiry, contact [jamesworkgooch@gmail.com](mailto:jamesworkgooch@gmail.com).
